@@ -9,6 +9,9 @@ This project is a web application that predicts diseases based on user input usi
 - Detailed information about diseases and symptoms.
 - Responsive design for mobile and desktop users.
 
+## The System Architecture
+![System Architecture](images/System-Arch.png)
+
 ## Installation
 To set up the project locally, follow these steps:
 
